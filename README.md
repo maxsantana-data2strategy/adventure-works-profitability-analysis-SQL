@@ -93,7 +93,7 @@ Adventure Works operates in 6 territories across North America, Europe, and Paci
 
 ---
 
-## [![View Repository Files](https://img.shields.io/badge/📂_View_Repository_Files-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxsantana-data2strategy/adventure-works-profitability-analysis-SQL)
+## [![View Explore full project description and check Repository Files](https://img.shields.io/badge/📂_View_Repository_Files-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxsantana-data2strategy/adventure-works-profitability-analysis-SQL)
 
 ```
 ├── queries/
@@ -101,7 +101,6 @@ Adventure Works operates in 6 territories across North America, Europe, and Paci
 ├── outputs/
 │   ├── Financial_Performance_Analysis_with_SQL_EN     # Final Excel results report
 │   ├── Análisis del desempeño financiero con SQL      # Original results report
-│   └── validation_report.txt                          # QA checks & reconciliation
 └── README.md                                          # This file
 ```
 
@@ -109,11 +108,9 @@ Adventure Works operates in 6 territories across North America, Europe, and Paci
 
 ## 🚀 How to Use
 
-1. **Load Adventure Works dataset** into your database
-2. **Run queries in order** (01 → 04) to build and validate the analysis
-3. **Review outputs:** `kpi_by_territory.csv` contains the final decision-ready metrics
-4. **Apply findings:** Use C→F→I recommendations to guide marketing budget allocation
+> 🔒 **Note on Raw Data:** Due to privacy and confidentiality guidelines, original raw datasets are not shared in this repository. 
 
+1. **Explore Repository Files:** Go through the repository files to learn more on how to replicate this exercise.
 ---
 
 ## 📚 Learnings & Best Practices
