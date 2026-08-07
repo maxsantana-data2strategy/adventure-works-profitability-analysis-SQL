@@ -73,8 +73,9 @@ Aggregated metrics by territory:
 | 🇫🇷 **France** | $0.92M | $0.40M | 42.9% | **17.9%** |
 | 🇨🇦 **Canada** | $0.71M | $0.32M | 44.8% | **17.4%** |
 
-<p align="left">
-  <img src="outputs/assets/Revenue_by_Country_EN_whitebg.png" alt="Revenue by Country Chart" width="400">
+<p align="center">
+  <img src="outputs/assets/Revenue_by_Country_EN_whitebg.png" alt="Revenue by Country" width="48%">
+  <img src="outputs/assets/ROI_vs_Margin_by_Country_EN_whitebg.png" alt="ROI vs Margin by Country" width="48%">
 </p>
 
 ### Context → Findings → Implications (C→F→I)
