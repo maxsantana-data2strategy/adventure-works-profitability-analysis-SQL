@@ -124,13 +124,7 @@ Adventure Works operates in 6 territories across North America, Europe, and Paci
 - **Margin % is universal; ROI % is context-specific:** Both matter, but ROI directly answers the CFO's "where to invest" question
 - **Always reconcile totals:** A simple SUM check against source tables prevented $XXK in reporting error
 
----
 
-## 🔗 Related Analysis
-
-- Product category performance (next phase)
-- Seasonal trends in revenue & marketing spend
-- Customer segment profitability by territory
 
 ---
 
