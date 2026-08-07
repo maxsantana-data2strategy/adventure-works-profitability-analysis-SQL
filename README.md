@@ -97,11 +97,12 @@ Adventure Works operates in 6 territories across North America, Europe, and Paci
 
 ```
 ├── queries/
-│   ├── SQL-queries-adventureworks.sql
+│   └── SQL-queries-adventureworks.sql
 ├── outputs/
-│   ├── kpi_by_territory.csv           # Final aggregated results
-│   └── validation_report.txt          # QA checks & reconciliation
-└── README.md                          # This file
+│   ├── Financial_Performance_Analysis_with_SQL_EN     # Final Excel results report
+│   ├── Análisis del desempeño financiero con SQL      # Original results report
+│   └── validation_report.txt                          # QA checks & reconciliation
+└── README.md                                          # This file
 ```
 
 ---
